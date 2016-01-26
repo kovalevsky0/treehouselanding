@@ -4,14 +4,14 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Treehouse</title>
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="stylesheets/main.css">
 </head>
 <body>
 	<header>
 		<div class="container">
 			<div class="top-header">
 				<div class="logotype">
-					<a href="#"><img src="img/logo.png" alt=""><span>treehouse</span></a>
+					<a href="#"><img src="images/logo.png" alt=""><span>treehouse</span></a>
 				</div>
 				<nav class="navigation">
 					<ul>
@@ -41,7 +41,7 @@
 				<span class="subtitle">Proin iaculis purus consequat sem cure</span>
 				<div class="services-list">
 					<div class="services-item">
-						<img src="img/services-icon-heart.png" alt="">
+						<img src="images/services-icon-heart.png" alt="">
 						<h3 class="dark-subtitle">beautiful designs</h3>
 						<p class="grey-paragraph">Proin iaculis purus consequat sem cure 
 							digni ssim. Donec porttitora entum suscipit 
@@ -49,7 +49,7 @@
 						</p>
 					</div>
 					<div class="services-item">
-						<img src="img/services-icon-mobile.png" alt="">
+						<img src="images/services-icon-mobile.png" alt="">
 						<h3 class="dark-subtitle">responsive web</h3>
 						<p class="grey-paragraph">Proin iaculis purus consequat sem cure 
 							digni ssim. Donec porttitora entum suscipit 
@@ -57,7 +57,7 @@
 						</p>
 					</div>
 					<div class="services-item">
-						<img src="img/services-icon-graph.png" alt="">
+						<img src="images/services-icon-graph.png" alt="">
 						<h3 class="dark-subtitle">Marketing tools</h3>
 						<p class="grey-paragraph">Proin iaculis purus consequat sem cure 
 							digni ssim. Donec porttitora entum suscipit 
@@ -75,9 +75,9 @@
 				<span class="description">Proin iaculis purus consequat sem cure  digni ssim. Donec<br>
 porttitora entum suscipit  aenean rhoncus posuere odio in tincidunt.</span>
 				<div class="relax-list">
-					<div><img src="img/relax-checkmark.png" alt=""><span>Initial Setup & Customizations</span></div>
-					<div><img src="img/relax-checkmark.png" alt=""><span>Regular Updates</span></div>
-					<div><img src="img/relax-checkmark.png" alt=""><span>Round The Clock Support</span></div>
+					<div><img src="images/relax-checkmark.png" alt=""><span>Initial Setup & Customizations</span></div>
+					<div><img src="images/relax-checkmark.png" alt=""><span>Regular Updates</span></div>
+					<div><img src="images/relax-checkmark.png" alt=""><span>Round The Clock Support</span></div>
 				</div>
 				<a href="#" class="header-btn">Learn more</a>
 			</div>
@@ -96,21 +96,21 @@ porttitora entum suscipit  aenean rhoncus posuere odio in tincidunt.</span>
 					</span>
 					<div class="latest-list">
 						<div class="latest-list-item">
-							<img src="img/latest-icon-basket.png" alt="">
+							<img src="images/latest-icon-basket.png" alt="">
 							<div class="latest-list-item-content">
 								<h3 class="dark-subtitle">E-Commerce Ready</h3>
 								<span class="description">Proin iaculis purus consequat sem cure  digni ssim.</span>
 							</div>
 						</div>
 						<div class="latest-list-item">
-							<img src="img/latest-icon-laptop.png" alt="">
+							<img src="images/latest-icon-laptop.png" alt="">
 							<div class="latest-list-item-content">
 								<h3 class="dark-subtitle">E-Commerce Ready</h3>
 								<span class="description">Proin iaculis purus consequat sem cure  digni ssim.</span>
 							</div>
 						</div>
 						<div class="latest-list-item">
-							<img src="img/latest-icon-locked.png" alt="">
+							<img src="images/latest-icon-locked.png" alt="">
 							<div class="latest-list-item-content">
 								<h3 class="dark-subtitle">E-Commerce Ready</h3>
 								<span class="description">Proin iaculis purus consequat sem cure  digni ssim.</span>
@@ -120,7 +120,7 @@ porttitora entum suscipit  aenean rhoncus posuere odio in tincidunt.</span>
 					<span class="description">
 						Proin iaculis purus consequat sem cure  digni ssim donec<br>porttitora entum suscipit  aenean rhoncus posuere odio in.
 					</span>
-					<div class="readmore"><a href="#">View Details</a> <img src="img/icon-readmore.png" alt=""></div>
+					<div class="readmore"><a href="#">View Details</a> <img src="images/icon-readmore.png" alt=""></div>
 				</div>
 			</div>
 		</div>
@@ -131,21 +131,21 @@ porttitora entum suscipit  aenean rhoncus posuere odio in tincidunt.</span>
 			<span class="subtitle">Proin iaculis purus consequat cure.</span>
 			<div class="culture-list">
 				<div class="culture-list-item culture-list-item-1">
-					<img src="img/culture-icon-music.png" alt="">
+					<img src="images/culture-icon-music.png" alt="">
 					<h3 class="dark-subtitle">Work-Life Balance</h3>
 					<p class="grey-paragraph">Proin iaculis purus consequat sem cure<br>
 	digni ssim. Donec porttitora entum suscipit<br>
 	aenean rhoncus posuere odio in tincidunt.</p>
 				</div>
 				<div class="culture-list-item culture-list-item-2">
-					<img src="img/culture-icon-graph.png" alt="">
+					<img src="images/culture-icon-graph.png" alt="">
 					<h3 class="dark-subtitle">Quality Over Quantity</h3>
 					<p class="grey-paragraph">Proin iaculis purus consequat sem cure<br>
 	digni ssim. Donec porttitora entum suscipit<br>
 	aenean rhoncus posuere odio in tincidunt.</p>
 				</div>
 				<div class="culture-list-item culture-list-item-3">
-					<img src="img/culture-icon-star.png" alt="">
+					<img src="images/culture-icon-star.png" alt="">
 					<h3 class="dark-subtitle">Deliver Excellence</h3>
 					<p class="grey-paragraph">Proin iaculis purus consequat sem cure<br>
 	digni ssim. Donec porttitora entum suscipit<br>
@@ -197,10 +197,10 @@ porttitora entum suscipit  aenean rhoncus posuere odio in tincidunt.</span>
 	<div class="ready-bottom">
 		<div class="container">
 			<div class="ready-logotypes">
-				<div class="logo envato"><a href="#"><img src="img/ready-logos-envato.png" alt=""></a></div>
-				<div class="logo wordpress"><a href="#"><img src="img/ready-logos-wordpress.png" alt=""></a></div>
-				<div class="logo tuts"><a href="#"><img src="img/ready-logos-tuts.png" alt=""></a></div>
-				<div class="logo microlancer"><a href="#"><img src="img/ready-logos-microlancer.png" alt=""></a></div>
+				<div class="logo envato"><a href="#"><img src="images/ready-logos-envato.png" alt=""></a></div>
+				<div class="logo wordpress"><a href="#"><img src="images/ready-logos-wordpress.png" alt=""></a></div>
+				<div class="logo tuts"><a href="#"><img src="images/ready-logos-tuts.png" alt=""></a></div>
+				<div class="logo microlancer"><a href="#"><img src="images/ready-logos-microlancer.png" alt=""></a></div>
 			</div>
 		</div>
 	</div>
@@ -210,45 +210,45 @@ porttitora entum suscipit  aenean rhoncus posuere odio in tincidunt.</span>
 				<div class="top-footer-list-block block-1">
 					<h3 class="dark-subtitle">Contact Us</h3>
 					<div class="item">
-						<div><img src="img/top-footer-icon-location.png" alt=""></div>
+						<div><img src="images/top-footer-icon-location.png" alt=""></div>
 						<span class="description">55 Main St.<br>Toronto, ON<br>M1H 3A5</span>
 					</div>
 					<div class="item">
-						<div><img src="img/top-footer-icon-phone.png" alt=""></div>
+						<div><img src="images/top-footer-icon-phone.png" alt=""></div>
 						<span class="description">(416) 555-5252</span>
 					</div>
 					<div class="item">
-						<div><img src="img/top-footer-icon-mail.png" alt=""></div>
+						<div><img src="images/top-footer-icon-mail.png" alt=""></div>
 						<span class="description">hello@treehouse.com</span>
 					</div>
 				</div>
 				<div class="top-footer-list-block block-2">
 					<h3 class="dark-subtitle white">Latest Posts</h3>
 					<div class="item">
-						<div><img src="img/top-footer-icon-news.png" alt=""></div>
+						<div><img src="images/top-footer-icon-news.png" alt=""></div>
 						<span class="description">Made With Love In Toronto</span>
 					</div>
 					<div class="item">
-						<div><img src="img/top-footer-icon-photo.png" alt=""></div>
+						<div><img src="images/top-footer-icon-photo.png" alt=""></div>
 						<span class="description">Startup News & Emerging Tech</span>
 					</div>
 					<div class="item">
-						<div><img src="img/top-footer-icon-news.png" alt=""></div>
+						<div><img src="images/top-footer-icon-news.png" alt=""></div>
 						<span class="description">Bitcoin Will Soon Rule The World</span>
 					</div>
 					<div class="item">
-						<div><img src="img/top-footer-icon-news.png" alt=""></div>
+						<div><img src="images/top-footer-icon-news.png" alt=""></div>
 						<span class="description">Wearable Technology On The Rise</span>
 					</div>
 					<div class="item">
-						<div><img src="img/top-footer-icon-media.png" alt=""></div>
+						<div><img src="images/top-footer-icon-media.png" alt=""></div>
 						<span class="description">Learn Web Design In 30 Days!</span>
 					</div>
 				</div>
 				<div class="top-footer-list-block block-3">
 					<h3 class="dark-subtitle white">Latest Tweets</h3>
 					<div class="item">
-						<div><img src="img/top-footer-icon-twitter.png" alt=""></div>
+						<div><img src="images/top-footer-icon-twitter.png" alt=""></div>
 						<span class="description">Confucius: Life is really simple,<br>
 						but we insist on making it<br>
 						complicated.<br> 
@@ -256,7 +256,7 @@ porttitora entum suscipit  aenean rhoncus posuere odio in tincidunt.</span>
 						8 mins ago</span>
 					</div>
 					<div class="item">
-						<div><img src="img/top-footer-icon-twitter.png" alt=""></div>
+						<div><img src="images/top-footer-icon-twitter.png" alt=""></div>
 						<span class="description">Grab the Free Treehouse web template at FreebiesXpress! 
 #freebies #templates
 2 days ago</span>
@@ -270,10 +270,10 @@ porttitora entum suscipit  aenean rhoncus posuere odio in tincidunt.</span>
 			<div class="footer">
 				<div class="copyright">© Copyright 2014 FreeviesXpress.com</div>
 				<div class="social">
-					<a href="#"><img src="img/footer-icon-twitter.png" alt=""></a>
-					<a href="#"><img src="img/footer-icon-facebook.png" alt=""></a>
-					<a href="#"><img src="img/footer-icon-pinterest.png" alt=""></a>
-					<a href="#"><img src="img/footer-icon-google.png" alt=""></a>
+					<a href="#"><img src="images/footer-icon-twitter.png" alt=""></a>
+					<a href="#"><img src="images/footer-icon-facebook.png" alt=""></a>
+					<a href="#"><img src="images/footer-icon-pinterest.png" alt=""></a>
+					<a href="#"><img src="images/footer-icon-google.png" alt=""></a>
 				</div>
 			</div>
 		</div>
